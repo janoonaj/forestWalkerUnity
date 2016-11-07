@@ -165,7 +165,7 @@ PlayerSettings:
   AndroidTargetDevice: 0
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: D:/Proyectos/Unity/forestWalkerUnity/keys/user.keystore
+  AndroidKeystoreName: D:/Proyectos/Unity/forestWalkerUnity/keys/googlePlay/forestwalker.keystore
   AndroidKeyaliasName: forestwalker
   AndroidTVCompatibility: 0
   AndroidIsGame: 1
