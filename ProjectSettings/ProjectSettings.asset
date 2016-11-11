@@ -165,9 +165,15 @@ PlayerSettings:
   AndroidTargetDevice: 0
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
+<<<<<<< HEAD
   AndroidKeystoreName: 
   AndroidKeyaliasName: 
   AndroidTVCompatibility: 1
+=======
+  AndroidKeystoreName: D:/Proyectos/Unity/forestWalkerUnity/keys/googlePlay/forestwalker.keystore
+  AndroidKeyaliasName: forestwalker
+  AndroidTVCompatibility: 0
+>>>>>>> FETCH_HEAD
   AndroidIsGame: 1
   androidEnableBanner: 1
   m_AndroidBanners:
